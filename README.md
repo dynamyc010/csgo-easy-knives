@@ -17,6 +17,12 @@ It's not that big of a deal all things considered, but it might be nice for some
 
 3- Pull the `csgo` directory in there.
 
+4- In-game, load into an offline match and type in `exec knives` in your console!
+
 (Feel free to check out the contents of the script, it's not much tbh)
+
+# /!\ This script is *NOT* a skin changer! You can't get banned for this, but you can't use this outside of offline matches *you* host either!
+
+**Still, I don't claim responsibility for any damage done!** (even though there's little to no real danger inside the script; it's just commands that you could type in your console by yourself)
 
 
