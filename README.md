@@ -9,7 +9,7 @@ It's not that big of a deal all things considered, but it might be nice for some
 
 ## Installation
 
-1. Download / Clone this archive ([Quick little link for you lazy folks](https://github.com/dynamyc010/csgo-easy-knives/archive/refs/heads/master.zip))
+1. Download / Clone this repo ([Quick little link for you lazy folks](https://github.com/dynamyc010/csgo-easy-knives/archive/refs/heads/master.zip))
 
 2. Go to your CS:GO directory
    
