@@ -15,9 +15,9 @@ It's not that big of a deal all things considered, but it might be nice for some
    
    - Open your Steam, right click on CS:GO, and under *Manage* click on *Browse Local Files*
 
-3- Pull the `csgo` directory in there.
+3. Pull the `csgo` directory in there.
 
-4- In-game, load into an offline match and type `exec knives` in your console!
+4. In-game, load into an offline match and type `exec knives` in your console!
 
 (Feel free to check out the contents of the script, it's not much tbh)
 
